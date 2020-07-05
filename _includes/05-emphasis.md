@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **This is how blod works.**
+  - __This is also how__
+- _Try italic_
+  * *Try again*
+* **Combine _them_**
