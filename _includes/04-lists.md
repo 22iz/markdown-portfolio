@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. I
+2. Can
+ 1. Do
+  - What
+    * I
+    * Want
+      - To
+      1. Do.
+3. :+1:
